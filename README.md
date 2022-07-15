@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+나는 올라프고 따뜻한 포옹을 좋아해!
+
 <!--
 **cherrytonic/cherrytonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
